@@ -1,3 +1,5 @@
+package Animals;
+
 public abstract class Animals {
     private String name;
     private int age;
